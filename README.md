@@ -1,8 +1,5 @@
 # Today's Weather
-This App is created by Aditya Raj, here is the deployed link for the app.
-
-https://weatherappaditya2311.netlify.app/
-
+This App is created by Abhinav Sharma.
 
 ## Introduction
 
