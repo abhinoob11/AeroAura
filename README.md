@@ -1,5 +1,5 @@
 # AeroAura - Real Time weather checker
-This App is created by Abhinav Sharma.
+Hi guys, I created an amazing weather-checker web app using openweathermapAPI, html, css, js and react.
 
 ## Introduction
 
