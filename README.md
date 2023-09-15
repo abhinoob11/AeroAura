@@ -1,4 +1,4 @@
-# Today's Weather
+# AeroAura - Real Time weather checker
 This App is created by Abhinav Sharma.
 
 ## Introduction
